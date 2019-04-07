@@ -23,7 +23,3 @@ Southwest went from being tied for 3rd in 1998 to being the airline with the bes
 Fly Southwest. Go to Hawaii. Overall, this dataset is rich and would allow for a lot of good analyis. For example: looking at which airports are best for on time arrivals, or which whether on-time odds are better for short or long flights. The 2008 data set would allow analysis of which delay causes result in the longest delays. The 1998 dataset does not contain this data.
 
 Overall, while individual airlines' records changed over the decade, flight delays have not significantly increased or decreased.
-
-## Apology
-
-I want to apologize to my reviewer for the bare bones analysis contained here. My work got crazy starting at the beginning of the year and I was not able to devote the time to this project that I would like to have done. That said, this nanodegree program has provided me with a rock solid baseline in Data Analysis and I look forward to being able to apply all of the tools we explored in future projects.
